@@ -4,11 +4,6 @@
 
 This project implements a simplified blockchain network using Python and Flask. Each node in the network can register new transactions, mine blocks, synchronize with other nodes, resolve conflicts, and perform periodic backups. It also supports monitoring of network status through custom endpoints.
 
-## Team Members
-
-* Ulises Díez Santaolalla
-* Ignacio Felices Vera
-
 ## Features
 
 * Transaction handling through REST API.
@@ -129,10 +124,5 @@ pip install -r requirements.txt
 * Blockchain backups are stored as `respaldo-nodo<ip>-<port>.json`.
 * Use `curl` or Postman to interact with endpoints manually.
 
-## License
+For any inquiries, please do not hesitate in contacting.
 
-This project is for educational purposes and was developed as part of a blockchain course at ICAI.
-
----
-
-For any inquiries, please contact the project contributors.
