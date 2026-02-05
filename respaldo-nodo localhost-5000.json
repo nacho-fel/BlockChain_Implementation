@@ -1,0 +1,422 @@
+{
+    "chain": [
+        {
+            "indice": 1,
+            "transacciones": [],
+            "timestamp": "0",
+            "hash_previo": "1",
+            "prueba": 0,
+            "hash": "51c21bc946f4a10b740bbaf7f0586fada52cbd6a7cc79679df7b2c2988c3a3bd"
+        },
+        {
+            "indice": 2,
+            "transacciones": [
+                {
+                    "cantidad": 10,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700937057.8112104
+                },
+                {
+                    "cantidad": 1,
+                    "destino": "10.120.151.35",
+                    "origen": "0",
+                    "tiempo": 1700937057.8190477
+                }
+            ],
+            "timestamp": 1700937057.8190477,
+            "hash_previo": "51c21bc946f4a10b740bbaf7f0586fada52cbd6a7cc79679df7b2c2988c3a3bd",
+            "prueba": 3176,
+            "hash": "000067ae0a346e2f2a94fee7002c4d584cbcc9532c0fa856a7da5978eff0ae97"
+        },
+        {
+            "indice": 3,
+            "transacciones": [
+                {
+                    "cantidad": 20,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700937057.8817377
+                },
+                {
+                    "cantidad": 15,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700937057.8885906
+                },
+                {
+                    "cantidad": 35,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700937057.8934865
+                },
+                {
+                    "cantidad": 1,
+                    "destino": "10.120.151.35",
+                    "origen": "0",
+                    "tiempo": 1700937057.9013283
+                }
+            ],
+            "timestamp": 1700937057.9013283,
+            "hash_previo": "000067ae0a346e2f2a94fee7002c4d584cbcc9532c0fa856a7da5978eff0ae97",
+            "prueba": 1617,
+            "hash": "0000380526d3adb684cd7bbd85a5c7afde673d4601888d2b2a58db52652ee9c8"
+        },
+        {
+            "indice": 4,
+            "transacciones": [
+                {
+                    "cantidad": 54,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700937058.1000822
+                },
+                {
+                    "cantidad": 1,
+                    "destino": "10.120.151.35",
+                    "origen": "0",
+                    "tiempo": 1700937058.1284847
+                }
+            ],
+            "timestamp": 1700937058.1284847,
+            "hash_previo": "0000380526d3adb684cd7bbd85a5c7afde673d4601888d2b2a58db52652ee9c8",
+            "prueba": 156764,
+            "hash": "00000c6b4b8db38b15fd012954368fb322fccbbedec1c435c359552ad7f09882"
+        },
+        {
+            "indice": 5,
+            "transacciones": [
+                {
+                    "cantidad": 10,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700937061.6906033
+                },
+                {
+                    "cantidad": 1,
+                    "destino": "10.120.151.35",
+                    "origen": "0",
+                    "tiempo": 1700937061.7355742
+                }
+            ],
+            "timestamp": 1700937061.7355742,
+            "hash_previo": "00000c6b4b8db38b15fd012954368fb322fccbbedec1c435c359552ad7f09882",
+            "prueba": 69355,
+            "hash": "00000c719f3e5b7aac16a93cc099bab66c11f21505ecbbae3641334cd9d61367"
+        },
+        {
+            "indice": 6,
+            "transacciones": [
+                {
+                    "cantidad": 20,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700937062.9575589
+                },
+                {
+                    "cantidad": 15,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700937062.9663744
+                },
+                {
+                    "cantidad": 35,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700937062.9742093
+                },
+                {
+                    "cantidad": 1,
+                    "destino": "10.120.151.35",
+                    "origen": "0",
+                    "tiempo": 1700937063.0085266
+                }
+            ],
+            "timestamp": 1700937063.0085266,
+            "hash_previo": "00000c719f3e5b7aac16a93cc099bab66c11f21505ecbbae3641334cd9d61367",
+            "prueba": 70396,
+            "hash": "00005327b88dfc70e27f0459db0591e31d58992ce86638f9bacdd7bf01f32208"
+        },
+        {
+            "indice": 7,
+            "transacciones": [
+                {
+                    "cantidad": 54,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700937064.7378032
+                },
+                {
+                    "cantidad": 1,
+                    "destino": "10.120.151.35",
+                    "origen": "0",
+                    "tiempo": 1700937064.7689042
+                }
+            ],
+            "timestamp": 1700937064.7689042,
+            "hash_previo": "00005327b88dfc70e27f0459db0591e31d58992ce86638f9bacdd7bf01f32208",
+            "prueba": 82045,
+            "hash": "00009bd2d1ba039715d56f982d19f709b76ffabb3f81461521450e0263a17d31"
+        },
+        {
+            "indice": 8,
+            "transacciones": [
+                {
+                    "cantidad": 20,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700937065.6902258
+                },
+                {
+                    "cantidad": 15,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700937065.7172925
+                },
+                {
+                    "cantidad": 35,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700937065.745146
+                },
+                {
+                    "cantidad": 1,
+                    "destino": "10.120.151.35",
+                    "origen": "0",
+                    "tiempo": 1700937065.7933042
+                }
+            ],
+            "timestamp": 1700937065.793322,
+            "hash_previo": "00009bd2d1ba039715d56f982d19f709b76ffabb3f81461521450e0263a17d31",
+            "prueba": 238387,
+            "hash": "0000c1abf49ff28f7a42159aa1da02a4f2f9852e7f419629b9a3166176137ea7"
+        },
+        {
+            "indice": 9,
+            "transacciones": [
+                {
+                    "cantidad": 54,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700937071.1151128
+                },
+                {
+                    "cantidad": 1,
+                    "destino": "10.120.151.35",
+                    "origen": "0",
+                    "tiempo": 1700937071.1658852
+                }
+            ],
+            "timestamp": 1700937071.1658988,
+            "hash_previo": "0000c1abf49ff28f7a42159aa1da02a4f2f9852e7f419629b9a3166176137ea7",
+            "prueba": 56655,
+            "hash": "00006ce2e16bced0211db61d773386a660479640999e7ab8ae7c012351797ae5"
+        },
+        {
+            "indice": 10,
+            "transacciones": [
+                {
+                    "cantidad": 10,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700940611.9922786
+                },
+                {
+                    "cantidad": 1,
+                    "destino": "10.120.151.35",
+                    "origen": "0",
+                    "tiempo": 1700940612.206013
+                }
+            ],
+            "timestamp": 1700940612.206013,
+            "hash_previo": "00006ce2e16bced0211db61d773386a660479640999e7ab8ae7c012351797ae5",
+            "prueba": 146066,
+            "hash": "00000ac565a9f1781a9d87df86f4cdde83fe80ad0cfeaa8fb012de075a3fbb63"
+        },
+        {
+            "indice": 11,
+            "transacciones": [
+                {
+                    "cantidad": 20,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700940614.7621493
+                },
+                {
+                    "cantidad": 15,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700940614.7729275
+                },
+                {
+                    "cantidad": 35,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700940614.7778218
+                },
+                {
+                    "cantidad": 1,
+                    "destino": "10.120.151.35",
+                    "origen": "0",
+                    "tiempo": 1700940614.8268044
+                }
+            ],
+            "timestamp": 1700940614.8268044,
+            "hash_previo": "00000ac565a9f1781a9d87df86f4cdde83fe80ad0cfeaa8fb012de075a3fbb63",
+            "prueba": 12474,
+            "hash": "000062aec6f494723064f023cd1368a3cd41933778c7be526ae21070d2c61c3e"
+        },
+        {
+            "indice": 12,
+            "transacciones": [
+                {
+                    "cantidad": 54,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700940615.2708411
+                },
+                {
+                    "cantidad": 1,
+                    "destino": "10.120.151.35",
+                    "origen": "0",
+                    "tiempo": 1700940615.3080626
+                }
+            ],
+            "timestamp": 1700940615.3080626,
+            "hash_previo": "000062aec6f494723064f023cd1368a3cd41933778c7be526ae21070d2c61c3e",
+            "prueba": 76523,
+            "hash": "0000adb36a8c3707d9a7ee57746d612fb95716002d80021bf1207d04fa9a6b3f"
+        },
+        {
+            "indice": 13,
+            "transacciones": [
+                {
+                    "cantidad": 10,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700940617.5865228
+                },
+                {
+                    "cantidad": 1,
+                    "destino": "10.120.151.35",
+                    "origen": "0",
+                    "tiempo": 1700940617.6213243
+                }
+            ],
+            "timestamp": 1700940617.6213243,
+            "hash_previo": "0000adb36a8c3707d9a7ee57746d612fb95716002d80021bf1207d04fa9a6b3f",
+            "prueba": 53586,
+            "hash": "00004cf4e14d0829988ab88710e0bbbb867672906463ca7a2faf79cc53078682"
+        },
+        {
+            "indice": 14,
+            "transacciones": [
+                {
+                    "cantidad": 20,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700940618.4549258
+                },
+                {
+                    "cantidad": 15,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700940618.4608028
+                },
+                {
+                    "cantidad": 35,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700940618.4725645
+                },
+                {
+                    "cantidad": 1,
+                    "destino": "10.120.151.35",
+                    "origen": "0",
+                    "tiempo": 1700940618.500971
+                }
+            ],
+            "timestamp": 1700940618.500971,
+            "hash_previo": "00004cf4e14d0829988ab88710e0bbbb867672906463ca7a2faf79cc53078682",
+            "prueba": 29143,
+            "hash": "0000e87a6488a77f8792d997862b06f49ca0ef70a762dc083e35d399be3b67ed"
+        },
+        {
+            "indice": 15,
+            "transacciones": [
+                {
+                    "cantidad": 54,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700940619.2581947
+                },
+                {
+                    "cantidad": 1,
+                    "destino": "10.120.151.35",
+                    "origen": "0",
+                    "tiempo": 1700940619.289541
+                }
+            ],
+            "timestamp": 1700940619.289541,
+            "hash_previo": "0000e87a6488a77f8792d997862b06f49ca0ef70a762dc083e35d399be3b67ed",
+            "prueba": 113553,
+            "hash": "00004b0ffa1e5153a1fe2caccaa2c37b362381cbdeccd3593c2d1003e7ebe887"
+        },
+        {
+            "indice": 16,
+            "transacciones": [
+                {
+                    "cantidad": 20,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700940622.3254037
+                },
+                {
+                    "cantidad": 15,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700940622.3596163
+                },
+                {
+                    "cantidad": 35,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700940622.404949
+                },
+                {
+                    "cantidad": 1,
+                    "destino": "10.120.151.35",
+                    "origen": "0",
+                    "tiempo": 1700940622.453358
+                }
+            ],
+            "timestamp": 1700940622.4533741,
+            "hash_previo": "00004b0ffa1e5153a1fe2caccaa2c37b362381cbdeccd3593c2d1003e7ebe887",
+            "prueba": 3277,
+            "hash": "000041a6bd8c4b3ea2e5b04cb951a88f93cbca23d58c2d5a022e3bd9edf80470"
+        },
+        {
+            "indice": 17,
+            "transacciones": [
+                {
+                    "cantidad": 54,
+                    "destino": "nodoB",
+                    "origen": "nodoA",
+                    "tiempo": 1700940622.7325225
+                },
+                {
+                    "cantidad": 1,
+                    "destino": "10.120.151.35",
+                    "origen": "0",
+                    "tiempo": 1700940622.7862122
+                }
+            ],
+            "timestamp": 1700940622.7862318,
+            "hash_previo": "000041a6bd8c4b3ea2e5b04cb951a88f93cbca23d58c2d5a022e3bd9edf80470",
+            "prueba": 66774,
+            "hash": "0000b6f54953c29d768fdba72ae101556951856bec3c48eaf8c9f2b535d3a761"
+        }
+    ],
+    "longitud": 17,
+    "date": "25/11/2023 20:30:37"
+}
